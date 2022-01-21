@@ -3,13 +3,18 @@
 }
 
 body {
-  background-color: steelblue;
+  background-color: navy;
   display: flex;
   align-items: center;
   justify-content: center;
   height: 100vh;
   overflow: hidden;
   margin: 0;
+}
+
+H1 {
+  color: white;
+  position: top;
 }
 
 .kinetic {
